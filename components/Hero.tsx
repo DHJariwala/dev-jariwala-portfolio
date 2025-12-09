@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Download, Mail, ArrowRight } from 'lucide-react';
+import { Download, Mail } from 'lucide-react';
 import { RESUME_LINK, EMAIL } from '../constants';
 
 const Hero: React.FC = () => {
