@@ -18,9 +18,9 @@ export const EXPERIENCE_DATA: Experience[] = [
   {
     id: 'exp1',
     role: 'Software Engineer',
-    company: 'New Jersey Institute of Technology, NeuroImaging Lab',
+    company: 'New Jersey Institute of Technology, Brain Connectivity Lab',
     location: 'Newark, NJ',
-    period: 'Dec 2024 – Present',
+    period: 'Dec 2024 – Dec 2025',
     description: [
       'Developed open-source Python 4D fMRI preprocessing toolbox with full-stack GUI using CustomTkinter, showcased at OHBM 2025.',
       'Engineered MATLAB-free pipeline replicating various MATLAB functionality in Python, reducing costs by 100%.',
